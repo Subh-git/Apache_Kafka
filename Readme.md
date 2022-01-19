@@ -1,0 +1,1 @@
+## Repository for practicing KAFKA message streaming using python
